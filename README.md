@@ -50,13 +50,6 @@ A Xray backend framework that can easily support many panels.
 | [ProxyPanel](https://github.com/ProxyPanel/ProxyPanel) | √     | √      | √                              |
 
 ## 软件安装
-### 一键安装
-```
-bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
-```
-### 使用Docker部署软件
-[Docker部署教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/docker)
-
 ### 手动安装
 [手动安装教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/manual)
 
@@ -86,15 +79,6 @@ ETH&(USDT-ERC20): 0xDbB76DDDaAef7F14e56Be96CF5cd477BBDA6FFd6
 
 TRX&(USDT-TRC20): THnoBdGW8W8tkCgATAbfTtEWV7jH3dz1dZ
 
-### Sponsors
-| Time       | Name                                           | Amount    |
-| ---------- | ---------------------------------------------- | --------- |
-| 2021/05/27 | [@Bobs9](https://t.me/Bobs9)                   | 30 usdt   |
-| 2021/05/27 | [@cchhuuaann1](https://github.com/cchhuuaann1)*永远怀念 | 30 usdt   |
-| 2021/06/02 | Anonymous                                      | 30 usdt   |
-| 2021/08/01 | Anonymous                                      | 77.5 usdt |
-| 2021/08/03 | [@steamsv](https://t.me/steamsv)               | 30 usdt   |
-| 2021/11/21 | [@Yuanserxyz](https://t.me/yuanserxyz)         | 300 usdt  |
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
